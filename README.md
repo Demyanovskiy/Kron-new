@@ -10,3 +10,5 @@ f sh
 newnew
 new
 
+dop info
+
